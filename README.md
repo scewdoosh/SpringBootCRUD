@@ -26,6 +26,8 @@ Run the Application:
 
 <h2 align="center">API Endpoints</h2>
 
+**exported json file for api endpoints is available in** ```postman_api_collection``` dir
+
 Here are the available API endpoints for the Spring Boot CRUD application:
 
 Test Endpoint
